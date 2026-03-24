@@ -22,14 +22,12 @@ A simple, interactive GUI for creating Canny edge‑detection images with a dark
   Saves the processed image as `edges_<original_name>` in the same folder as the source file.  
   
 
-## Requirements
+## Install Requirements
 
 - Python 3.8+
 - `opencv-python`
 - `PySide6`
 - `pillow`
-
-## Installation
 
 ```bash
 pip install opencv-python PySide6 pillow
