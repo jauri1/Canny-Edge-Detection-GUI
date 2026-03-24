@@ -172,7 +172,7 @@ class CannyWidget(QFrame):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Canny Edge Detector (Resizable)")
+        self.setWindowTitle("Canny Edge Detector v1.0")
         self.resize(800, 600)
 
         # Dark theme
